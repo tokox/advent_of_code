@@ -1,2 +1,2 @@
-# advent\_of\_code
+# advent of code
 * **2021** C++
