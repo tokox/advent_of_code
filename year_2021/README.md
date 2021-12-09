@@ -6,5 +6,5 @@
 * **Day 5** ⭐⭐ C++
 * **Day 6** ⭐⭐ C++
 * **Day 7** ⭐⭐ C++
-* **Day 8** Python *Working...*
+* **Day 8** ⭐ Python *Working...*
 * **Day 9** *Waiting...*
