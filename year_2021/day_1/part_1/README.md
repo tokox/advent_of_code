@@ -4,11 +4,11 @@
 ```
 g++ -o program program.cpp -std=c++17
 ```
-###Run:
+### Run:
 ```
 ./program
 ```
-###Run with input.txt as input:
+### Run with input.txt as input:
 ```
 ./program < ../input.txt
 ```
