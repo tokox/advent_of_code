@@ -8,7 +8,7 @@
 ```
 ./program.py
 ```
-### Run if you have not python in /bin/python3:
+### Run if you haven't python in /bin/python3:
 ```
 python3 program.py
 ```
