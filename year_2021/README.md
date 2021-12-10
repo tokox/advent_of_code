@@ -8,3 +8,4 @@
 * **Day 7** ⭐⭐ C++
 * **Day 8** ⭐ Python *Working...*
 * **Day 9** *Waiting...*
+* **Day 10** *Waiting...*
