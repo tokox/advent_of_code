@@ -10,3 +10,5 @@
 * **Day 9** *Waiting...*
 * **Day 10** *Waiting...*
 * **Day 11** *Waiting...*
+* **Day 12** *Waiting...*
+* **Day 13** *Waiting...*
