@@ -17,3 +17,5 @@
 * **Day 16** *Waiting...*
 * **Day 17** *Waiting...*
 * **Day 18** *Waiting...*
+* **Day 19** *Waiting...*
+* **Day 20** *Waiting...*
