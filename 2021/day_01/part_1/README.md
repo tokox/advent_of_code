@@ -12,3 +12,7 @@ g++ -o program program.cpp -std=c++17
 ```
 ./program < ../input.txt
 ```
+### Compile & Run:
+```
+g++ -o program program.cpp -std=c++17 && ./program < ../input.txt
+```
