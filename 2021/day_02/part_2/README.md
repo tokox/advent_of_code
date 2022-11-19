@@ -1,5 +1,5 @@
-# advent of code 2021 day 2 part 2
-⭐ C++ 1599311480
+# [advent of code 2021 day 2 part 2](https://adventofcode.com/2021/day/2#part2)
+:star: `C++` *Done*
 ### Compile:
 ```
 g++ -o program program.cpp -std=c++17
@@ -8,7 +8,11 @@ g++ -o program program.cpp -std=c++17
 ```
 ./program
 ```
-### Run with input.txt as input:
+### Run with ../input.txt as input:
 ```
 ./program < ../input.txt
+```
+### Compile & Run:
+```
+g++ -o program program.cpp -std=c++17 && ./program < ../input.txt
 ```
