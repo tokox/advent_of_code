@@ -1,12 +1,12 @@
 # advent of code 2021
-* **Day 1** ⭐⭐ C++
-* **Day 2** ⭐⭐ C++
-* **Day 3** ⭐⭐ C++
-* **Day 4** ⭐⭐ C++
-* **Day 5** ⭐⭐ C++
-* **Day 6** ⭐⭐ C++
-* **Day 7** ⭐⭐ C++
-* **Day 8** ⭐ Python *Working...*
+* **Day 1** \*\* Language: C++
+* **Day 2** \*\* Language: C++
+* **Day 3** \*\* Language: C++
+* **Day 4** \*\* Language: C++
+* **Day 5** \*\* Language: C++
+* **Day 6** \*\* Language: C++
+* **Day 7** \*\* Language: C++
+* **Day 8** \*\* Language: Python *Working...*
 * **Day 9** *Waiting...*
 * **Day 10** *Waiting...*
 * **Day 11** *Waiting...*
