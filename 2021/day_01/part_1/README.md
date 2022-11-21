@@ -1,5 +1,5 @@
 # [advent of code 2021 day 1 part 1](https://adventofcode.com/2021/day/1)
-**:star:** `C++` ***Done***
+:star: `C++` ***Done***
 ### Compile:
 ```
 g++ -o program program.cpp -std=c++17
